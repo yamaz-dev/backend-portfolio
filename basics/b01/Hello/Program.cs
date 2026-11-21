@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello from my workbench");
+﻿Console.WriteLine("My first workbench");
