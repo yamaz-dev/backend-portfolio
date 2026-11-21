@@ -1,0 +1,1 @@
+﻿"Microsoft SQL Server 2025 (RTM) - 17.0.1000.7 (X64)  	Oct 21 2025 12:05:57  	Copyright (C) 2025 Microsoft Corporation 	Enterprise Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 26300: ) (Hypervisor) "
